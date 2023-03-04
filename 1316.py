@@ -1,22 +1,4 @@
-'''
-3
-happy
-new
-year
 
-4
-aba
-abab
-abcabc
-a
-
-5
-ab
-aa
-aca
-ba
-bb
-'''
 n = int(input())
 answer = 0
 
@@ -37,5 +19,24 @@ for _ in range(n):
 print(n - answer)
 
         
-            
         
+'''
+입력
+3
+happy
+new
+year
+
+4
+aba
+abab
+abcabc
+a
+
+5
+ab
+aa
+aca
+ba
+bb
+'''
